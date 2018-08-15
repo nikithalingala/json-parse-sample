@@ -1,9 +1,0 @@
-C:\dotnetSamples\json-parse-samples\json-parse-samples\bin\Debug\json-parse-samples.exe.config
-C:\dotnetSamples\json-parse-samples\json-parse-samples\bin\Debug\json-parse-samples.exe
-C:\dotnetSamples\json-parse-samples\json-parse-samples\bin\Debug\json-parse-samples.pdb
-C:\dotnetSamples\json-parse-samples\json-parse-samples\bin\Debug\Newtonsoft.Json.dll
-C:\dotnetSamples\json-parse-samples\json-parse-samples\obj\Debug\json-parse-samples.csprojAssemblyReference.cache
-C:\dotnetSamples\json-parse-samples\json-parse-samples\obj\Debug\json-parse-samples.csproj.CoreCompileInputs.cache
-C:\dotnetSamples\json-parse-samples\json-parse-samples\obj\Debug\json-parse-samples.csproj.CopyComplete
-C:\dotnetSamples\json-parse-samples\json-parse-samples\obj\Debug\json-parse-samples.exe
-C:\dotnetSamples\json-parse-samples\json-parse-samples\obj\Debug\json-parse-samples.pdb
